@@ -1,0 +1,116 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+img {
+  width: 150px;
+  height: 150px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: auto !important;
+}
+
+h2 {
+  padding-top: 16px;
+  padding-bottom: 8px;
+}
+
+.col-centered{
+  float: none;
+  margin: 0 auto;
+}
+
+a {
+  color: #957D95;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #C1A4C1;
+}
+
+.btn {
+  background-color: #957D95;
+  border-color: #957D95;
+  margin: 24px;
+}
+
+.btn:hover {
+  background-color: #C1A4C1;
+  border-color: #C1A4C1;
+}
+
+.light-patterned-background {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+.dark-background {
+  background-color: #f0f0f0;
+  color: rgb(20, 20, 20);
+}
+
+.navbar {
+  background-color: #eeeeeec9
+}
+.footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.footer-icon{
+  color: #333;
+}
+.footer-icon:hover{
+  color: #4CA3DB;
+
+}
+
+.officer-grid-icon {
+  padding: 32px;
+}
+
+.small-img {
+  width: 30px;
+  height: 30px;
+}
+.animate-bottom {
+  -webkit-animation: fadein 3s; /* Safari, Chrome and Opera > 12.1 */
+  -moz-animation: fadein 3s; /* Firefox < 16 */
+   -ms-animation: fadein 3s; /* Internet Explorer */
+    -o-animation: fadein 3s; /* Opera < 12.1 */
+       animation: fadein 3s;
+}
+
+i.fab.fa-angular {
+  font-size: 85px;
+}
+
+i.fab.fa-react {
+  font-size: 85px;
+}
+i.fab.fa-vuejs {
+  font-size: 85px;
+}
+i.fab.fa-html5 {
+  font-size: 85px;
+}
+i.fab.fa-android {
+  font-size: 85px;
+}
+i.fab.fa-apple {
+  font-size: 85px;
+}
+i.fab.fa-node::before {
+  font-size: 85px;
+}
+
+i.fab.fa-css3-alt {
+  font-size: 85px;
+}
+.fa-database:before {
+  font-size: 70px;
+  padding:10px;
+}
