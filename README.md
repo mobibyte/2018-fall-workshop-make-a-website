@@ -1,4 +1,4 @@
-# Mobi-Learn-make-a-website
+# Mobi-Easy-way-to-make-a-website
 This project was made with HTML, CSS, & Bootstrap. Feel free to clone or fork this project to use as a skeleton for your own website :) 
 
 ## How to get your project started
