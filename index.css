@@ -25,3 +25,18 @@ h2 {
 .navbar {
   background-color: #eeeeeec9
 }
+.mz-3 {
+  margin-right: 16px!important;
+}
+
+.d-flex {
+  display: flex!important;
+}
+
+.flex-wrap {
+  flex-wrap: wrap!important;
+}
+
+.flex-justify-center {
+  justify-content: center!important;
+}
