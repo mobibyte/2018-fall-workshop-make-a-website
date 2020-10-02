@@ -1,8 +1,9 @@
 # Mobi-Learn-make-a-website
 This project was made with HTML, CSS, & Bootstrap. Feel free to clone or fork this project to use as a skeleton for your own website :) 
+For freshers it will help you lot doing new projects you were free to write or clone
 
 ## How to get your project started
-Link to the workshop Slides showing how to clone, start, and program your project
+Link to the workshop Slides showing how to clone, start, and program your project 
 
 https://docs.google.com/presentation/d/1ECDVDhITtyv4dGXct3VYj1rBm3NdL13JeiubcijEVvU/edit?usp=sharing
 
