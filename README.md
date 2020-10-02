@@ -14,7 +14,9 @@ https://docs.google.com/presentation/d/1ECDVDhITtyv4dGXct3VYj1rBm3NdL13JeiubcijE
 - https://www.w3schools.com/html/default.asp
 - https://medium.freecodecamp.org/learn-html-in-5-minutes-ccd378d2ab72
 - https://www.tutorialspoint.com/html/
-
+ (YOUTUBE PLAYLIST FOR HTML CSS JAVASCRIPT AND WEB BASICS)
+- https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg
+- https://www.youtube.com/watch?v=pQN-pnXPaVg
 ## Links on learning more about UI and design
 - https://www.awwwards.com/websites/bootstrap/
 - https://dribbble.com/search?q=portfolio
